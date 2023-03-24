@@ -1,5 +1,6 @@
 # 4Linkz
 **High School Computer Science Project**
+
 Connect 4 game with GUI and music component.
 
 Uses object oriented principles to modularize code into various components.
